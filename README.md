@@ -12,7 +12,7 @@ caches and browser caches.
 
 Add the following dependency to your `project.clj`:
 
-    [ring/ring-ssl "0.1.0"]
+    [listora/ring-cache-buster "0.2.0"]
 
 ## License
 
