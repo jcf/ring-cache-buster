@@ -1,6 +1,6 @@
 # Ring-Cache-Buster
 
-[![Build Status](https://secure.travis-ci.org/listora/ring-cache-buster.png)](http://travis-ci.org/listora/ring-cache-buster)
+[![Build Status](https://travis-ci.org/listora/ring-cache-buster.svg?branch=master)](https://travis-ci.org/listora/ring-cache-buster)
 
 Ring middleware for preventing caching.
 
