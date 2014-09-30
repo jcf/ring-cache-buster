@@ -1,4 +1,4 @@
-(defproject ring-cache-buster "0.1.0-SNAPSHOT"
+(defproject ring-cache-buster "0.1.0"
   :description "Ring middleware that tells the world to cache nothing"
   :url "https://github.com/listora/ring-cache-buster"
   :license {:name "The MIT License"
